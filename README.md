@@ -1,133 +1,25 @@
-🚢 Titanic Survival Prediction
-A machine learning project to predict the survival of passengers on the Titanic using the famous Kaggle dataset. This project involves data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment using a user-friendly interface.
+# 👋 Hello there! I'm Jyotsnarani Tudu
 
+🎓 Developer | 🎨 UI/UX Designer | 📊 Data Science Enthusiast
 
-titanic-survival-prediction/
-│
-├── data/                    # Raw and processed data files
-│   ├── train.csv
-│   └── test.csv
-│
-├── notebooks/               # Jupyter notebooks for EDA and modeling
-│   ├── eda.ipynb
-│   └── model_training.ipynb
-│
-├── models/                  # Saved machine learning models
-│   └── titanic_model.pkl
-│
-├── app/                     # Web app files (Flask or Streamlit)
-│   ├── app.py
-│   └── templates/
-│       └── index.html
-│
-├── static/                  # Static files (CSS, images)
-│
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-└── .gitignore
+Welcome to my GitHub! I'm passionate about building intuitive web applications, designing beautiful user experiences, and diving deep into data-driven projects. I love blending code and creativity to solve real-world problems.
 
+---
 
-🧠 Problem Statement
-Given the data of passengers aboard the Titanic, predict whether a passenger survived or not based on features such as age, sex, ticket class, etc.
+## 🚀 What I’m Working On
 
-📊 Features Used
-Pclass (Ticket class)
+- 🧠 **Customer Churn Prediction App**  
+  Using Python, Pandas, Random Forest & XGBoost, deployed via Flask & Docker on AWS EC2 — with KL divergence for drift detection.
 
-Sex
+- 🛒 **RIMS Project (Retail Inventory Management System)**  
+  Developing modules like purchase entry, sales entry, and stock requisition using HTML, models, and database integration.
 
-Age
+- 📊 **Learning Python, Pandas & NumPy**  
+  Strengthening my data handling and analysis skills with hands-on projects.
 
-SibSp (No. of siblings/spouses aboard)
+---
 
-Parch (No. of parents/children aboard)
+## 🛠 Tech Stack
 
-Fare
-
-Embarked (Port of Embarkation)
-
-🧹 Preprocessing Steps
-Handling missing values
-
-Encoding categorical variables
-
-Feature scaling
-
-Feature selection
-
-🤖 Models Used
-Logistic Regression
-
-Decision Tree
-
-Random Forest
-
-XGBoost (optional)
-
-Evaluation Metrics:
-
-Accuracy
-
-Precision, Recall, F1-score
-
-Confusion Matrix
-
-🚀 Deployment
-This project includes a web app interface built using:
-
-Flask / Streamlit (choose based on your implementation)
-
-HTML/CSS for UI (if using Flask)
-
-Deployed on:
-
-Localhost
-
-(Optional) Heroku / AWS / Render
-
-🛠 How to Run
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/titanic-survival-prediction.git
-cd titanic-survival-prediction
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the web app
-
-bash
-Copy
-Edit
-python app/app.py
-Visit http://localhost:5000 or as prompted.
-
-📈 Results
-
-Model	Accuracy
-LogisticRegression	79%
-RandomForest	84%
-XGBoost	85%
-📌 Future Improvements
-Hyperparameter tuning
-
-Model explainability using SHAP or LIME
-
-Use of advanced ensemble models
-
-Responsive and styled frontend
-
-📚 Dataset
-Kaggle Titanic Dataset
-
-🧑‍💻 Author
-Jyotsnarani Tudu
-Feel free to reach out on LinkedIn or GitHub
-<!---
-Jyotsna66/Jyotsna66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Tools:**  
+`Python` | `HTML` | `CSS
